@@ -1,0 +1,25 @@
+.shein-login-card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.shein-login-header {
+    background-color: #ff6f61;
+    color: white;
+    font-weight: bold;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.shein-login-button {
+    background-color: #ff6f61;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.shein-login-button:hover {
+    background-color: #e05a4f;
+}
